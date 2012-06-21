@@ -1,0 +1,16 @@
+aspects:
+- original
+entries:
+- zhxs-000.txt
+- zhxs-001.txt
+- zhxs-002.txt
+- zhxs-003.txt
+- zhxs-004.txt
+- zhxs-005.txt
+- zhxs-006.txt
+- zhxs-007.txt
+- zhxs-008.txt
+- zhxs-009.txt
+- zhxs-010.txt
+- zhxs-011.txt
+
