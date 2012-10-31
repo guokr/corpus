@@ -1,5 +1,6 @@
 aspects:
 - original
+- labeled
 entries:
 - zhxs-000.txt
 - zhxs-001.txt
